@@ -23,3 +23,8 @@ require all denied
 require host localhost
 </Files>
 # END Simply Static
+php_value upload_max_filesize 528M
+php_value post_max_size 528M
+php_value memory_limit 556M
+php_value max_execution_time 300
+php_value max_input_time 300
