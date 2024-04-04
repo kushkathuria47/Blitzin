@@ -18,7 +18,7 @@ RewriteRule . /Blitzin/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "C:\xampp\htdocs\Blitzin/wp-content/uploads\simply-static\effbfa035dcc57dc8cf2e886c15b166a-debug.txt">
+<Files "C:\xampp\htdocs\Blitzin/wp-content/uploads\simply-static\329c755130a9afba69d51cbca86c0c4a-debug.txt">
 require all denied
 require host localhost
 </Files>
